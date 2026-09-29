@@ -1,0 +1,10 @@
+{
+  "name": "divernote-spec",
+  "version": "1.0.0",
+  "description": "Specs for Divernote: Tab picks between an issue and a spec.",
+  "type": "module",
+  "keywords": ["divernote-package"],
+  "divernote": {
+    "extensions": ["./index.mjs"]
+  }
+}
